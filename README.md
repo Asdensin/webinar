@@ -1,2 +1,2 @@
-# webinar
+# Conflict test
 git test
